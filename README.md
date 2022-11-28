@@ -1,7 +1,12 @@
 # B-PRO-VISDAT-GSL-22-23
 
-12S19007
-12S19008
-12S19045
-12S19049- Mariana Br Anturi
-12S19054
+## Kelompok B
+Ketua :
+Delpia Yesica Marpaung (12S19007)
+
+
+Anggota:
+- Marwani Claudia N (12S19008)
+- Regita (12S19045)
+- Mariana Br Anturi (12S19049)
+- Rointan Y.E. Simamora (12S19054)
