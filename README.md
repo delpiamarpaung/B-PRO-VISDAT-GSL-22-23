@@ -3,8 +3,7 @@
 ## Kelompok B
 Ketua :
 Delpia Yesica Marpaung (12S19007)
-Wakil Ketua :
-Regita (12S19045)
+
 
 Anggota:
 - Marwani Claudia N (12S19008)
