@@ -25,5 +25,8 @@ Hasil dari penentuan idiom visualisasi yang akan digunakan nantinya akan ditempa
 4. Apa Top 10 Genre yang ada pada Netflix?
 5. Bagaimana persebaran Movie dan TV Show dilihat berdasarkan Country-nya?
 
+### Visualisasi Dashboard
+![Dashboard](https://user-images.githubusercontent.com/78064802/208436434-546828e4-56ab-466f-8a0e-878334bb51ff.jpeg)
+
 ### Presentasi Proyek Akhir
 https://youtu.be/_SLi03Aa5K4
